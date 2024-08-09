@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandhiyadayalan&label=Profile%20views&color=0e75b6&style=flat" alt="sandhiyadayalan" /> </p>
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **WordPress**
 
 - 💬 Ask me about **HTML, CSS, Bootstrap and Javascript**
 
