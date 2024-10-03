@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandhiyadayalan&label=Profile%20views&color=0e75b6&style=flat" alt="sandhiyadayalan" /> </p>
 
-- 🌱 I’m currently learning **WordPress**
+- 🌱 I’m currently learning **React Js**
 
-- 💬 Ask me about **HTML, CSS, Bootstrap and Javascript**
+- 💬 Ask me about **HTML, CSS, Tailwind CSS, Bootstrap, Javascript and React Js**
 
 - 📫 How to reach me **sandhiyad193@gmail.com**
 
